@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/hellozhangran/code_world.svg?branch=master)](https://travis-ci.org/hellozhangran/code_world)
+
+
 # **关于代码的一切**
 
 *这年头，没有一个page list都不好意思说自己是码农了*
