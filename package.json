@@ -1,0 +1,22 @@
+{
+  "name": "code_world",
+  "version": "1.0.0",
+  "description": "*这年头，没有一个page list都不好意思说自己是码农了*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello world'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellozhangran/code_world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellozhangran/code_world/issues"
+  },
+  "homepage": "https://github.com/hellozhangran/code_world#readme",
+  "dependencies": {
+    "pixi.js": "^4.5.0"
+  }
+}
